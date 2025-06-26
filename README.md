@@ -10,4 +10,4 @@ Aktuell beschäftige ich mich mit:
 
 ## 🚀 Aktuelle Projekte
 
-- [⏱ ChronoLogic](https://github.com/Historyon/ChronoLogic) - Zeiterfassung & Aktivitätsanalyse (Early WIP)
+- ⏱ [ChronoLogic](https://github.com/Historyon/ChronoLogic) - Zeiterfassung & Aktivitätsanalyse (Early WIP)
