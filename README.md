@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋🏻 Hallo, ich bin Jonas
 
-<!--
-**Historyon/Historyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin ein leidenschaftlicher Softwareentwickler mit Fokus auf saubere Architektur, nachhaltigen Code und sinnvolle Softwarelösungen.
+Aktuell beschäftige ich mich mit:
 
-Here are some ideas to get you started:
+- 🛠 C#/.NET 9, Minimal APIs, Blazor (WASM + Server + offline Möglichkeiten)
+- 🧠 Lese Cleanr Architecture, The Pragmatic Programmer, DDD Distilled
+- 🎮 Spieleentwicklung mit Godot in C#
+- 🌍 Open Source und Möglichkeiten die Welt mit Software zu verbessern
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Aktuelle Projekte
+
+- [ChronoLogic](https://github.com/Historyon/ChronoLogic) - Zeiterfassung & Aktivitätsanalyse (Early WIP)
