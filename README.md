@@ -11,3 +11,4 @@ Aktuell beschäftige ich mich mit:
 ## 🚀 Aktuelle Projekte
 
 - ⏱ [ChronoLogic](https://github.com/Historyon/ChronoLogic) - Zeiterfassung & Aktivitätsanalyse (Early WIP)
+- 🏃🏻‍♂️ [NeonDashTrail](https://github.com/Historyon/NeonDashTrail) - Runner-Game in Godot 4.4 mit C# (Early WIP)
