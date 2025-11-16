@@ -7,6 +7,7 @@ Aktuell beschäftige ich mich mit:
 - 🧠 Lese Clean Architecture, The Pragmatic Programmer, DDD Distilled
 - 🎮 Spieleentwicklung mit Godot in C#
 - 🌍 Open Source und Möglichkeiten die Welt mit Software zu verbessern
+- ☕ Erlernen von Java
 
 ## 🚀 Aktuelle Projekte
 
